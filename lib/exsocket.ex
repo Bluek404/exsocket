@@ -1,0 +1,2 @@
+defmodule ExSocket do
+end
